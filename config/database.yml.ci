@@ -3,6 +3,6 @@ test:
   encoding: unicode
   database: test
   username: postgres
-  password: password
-  host: localhost
+  password: postgres
+  host: postgres
   port: 5432
